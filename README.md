@@ -1,4 +1,6 @@
 <h1>Who am i ?</h1>
-- 👋 Hi, I’m @medyaalpa
-- 👀 I’m interested in dev.
-- 🌱 I’m currently learning r.
+<ul>
+  <li>👋 Hi, I’m @medyaalpa</li>
+  <li>👀 I’m interested in dev.</li>
+  <li>🌱 I’m currently learning r.</li>
+</ul>
