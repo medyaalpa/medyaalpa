@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @medyaalpa
+- 👀 I’m interested in dev.
+- 🌱 I’m currently learning r.
